@@ -1,1 +1,2 @@
-hi this is fiesrt day devops class
+hi this is first day devops class
+and i finieshed git and github
